@@ -1,0 +1,40 @@
+*{
+	font-family: 'baloo 2',cursive;
+	margin: 0;
+	padding: 0;
+}
+
+
+header{
+	background: rgb(0,123,255);
+	display: fixed;
+}
+
+header nav h1{
+	text-align: center;
+	color:white;
+}
+nav{
+	position: static;
+}
+#title{
+	width: 100%;
+}
+#description{
+	width: 100%;
+}
+#formTaskc{
+	width: 100%;
+    align-items: center;
+}
+.mb-10{
+	margin-bottom: 10%;
+}
+@media screen and (max-width:500px){
+	.container{
+		width: 100%;
+	}
+}
+
+
+
